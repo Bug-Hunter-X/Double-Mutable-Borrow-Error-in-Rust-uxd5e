@@ -1,0 +1,1 @@
+This repository contains a simple Rust program that demonstrates a common error: double mutable borrows.  The program attempts to create two mutable references to the same variable simultaneously, violating Rust's borrowing rules. The solution demonstrates how to avoid this error by refactoring the code. 
